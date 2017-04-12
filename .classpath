@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/sony/Desktop/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/sony/Downloads/mariadb-java-client-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sony/Desktop/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
